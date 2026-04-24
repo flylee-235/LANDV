@@ -1,0 +1,25 @@
+# Core dependencies for standalone Wan TI2V training/inference
+numpy
+pillow
+tqdm
+typing_extensions
+imageio
+imageio-ffmpeg
+opencv-python
+pandas
+
+# PyTorch stack (install matching CUDA build for your machine)
+torch
+torchvision
+
+# Model and tokenizer stack
+transformers
+accelerate
+safetensors
+einops
+sentencepiece
+protobuf
+ftfy
+modelscope
+peft
+pynvml

@@ -1,0 +1,4 @@
+# Optional acceleration / memory packages
+bitsandbytes
+flash-attn
+xformers
